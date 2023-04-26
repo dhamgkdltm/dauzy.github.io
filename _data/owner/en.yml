@@ -5,7 +5,7 @@
 brand: "Dauzy"
 
 # text below the brand name
-brand_sub_text: "$site_hello!"
+brand_sub_text: "hello!"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Dauzy"
